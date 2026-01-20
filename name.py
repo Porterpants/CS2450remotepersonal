@@ -5,7 +5,7 @@ name = input("What's your name broski? ")
 
 while True:
     age = random.randint(15, 30)
-    answer = input(f"Is your age {age}? (y/n): ").lower()
+    answer = input(f"Is your age {age}? TELL ME(y/n): ").lower()
     if answer == "y":
         print(f"{name} is {age} years old. IM A GENIUS")
         break
