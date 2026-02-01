@@ -6,3 +6,10 @@ I am excited to continue to learn how to use Github as many people use it to bui
 code base, or even demonstrate how their code works!
 
 -Porter out
+
+
+Date: 1.31.26 - Subject Flask
+
+Flask is a super cool app that allows the ease of web application development! Its pretty straight forward!
+
+- :D
