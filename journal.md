@@ -23,3 +23,14 @@ to see chores, talk to our roomates, have a feed of pictures from our roomates, 
 its going to be pretty awesome! I'll update you when we have more progress.
 
 -Porter out :/
+
+
+Date: 2.10.26 - Subject: Git Merges
+
+Now that we’re working as a team, things are getting real! We’re starting to use Merges, which is how we combine all 
+our individual work into one master project. Basically, we each work on our own "branch" (like our own little sandbox)
+so we don't mess up each other's code. When we’re done, we merge it all back together. Sometimes we might have Merge
+Conflict, which is just a fancy way of saying two people edited the same thing! But it’s honestly a rite of passage to
+fix one.
+
+-Porter out :P
