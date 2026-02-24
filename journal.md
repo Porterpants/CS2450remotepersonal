@@ -34,3 +34,21 @@ Conflict, which is just a fancy way of saying two people edited the same thing! 
 fix one.
 
 -Porter out :P
+
+
+Date: 2.19.26 - Subject: Team Presentation
+
+This week we worked on putting together our presentation for Roommate Hub! It was actually really cool seeing everything come together in a more “official” way. We had to clearly explain our idea, the features we’re building, and how the app will actually work. It made me realize how much progress we’ve already made as a team. We divided up the slides so everyone could talk about the parts they worked on, which made it feel more organized and professional. I’m a little nervous to present, but I’m also excited because I think our idea is solid and people are going to like it.
+
+-Porter out 
+
+
+
+Date: 2.24.26 - Subject: We Presented!
+
+Today we finally presented Roommate Hub! Honestly, it went way better than I expected. All the preparation we put into the slides and practicing really paid off. Everyone on the team did a great job explaining their parts, and it felt really smooth overall. I was definitely a little nervous at first, but once we started talking about the app and all the features, it felt natural because we’ve been working on it for weeks now. It was awesome showing off what we built and seeing people actually interested in it. Now it feels real.
+
+-Porter out :D
+
+
+
